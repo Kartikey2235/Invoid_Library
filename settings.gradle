@@ -1,0 +1,3 @@
+include ':InvoidLibrary'
+include ':app'
+rootProject.name = "Invoid Library"
